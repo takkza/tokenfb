@@ -1,6 +1,5 @@
 import requests, re, os, sys
 os.system ("clear")
-os.system ("figlet CODETK")
 print ("FB: Shadow Tak\n")
 cookie = input('Cookie? : ')
 try:
